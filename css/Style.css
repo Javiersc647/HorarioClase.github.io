@@ -1,0 +1,28 @@
+table,th,tr,td{
+    border: 1px solid black;
+    text-align: center;
+}
+.hor{
+  background-color: rgba(147, 70, 70, 0.378);
+}
+.progra{
+  background-color: rgba(0, 153, 255, 0.448);
+}
+.Entorn{
+  background-color: rgba(193, 230, 82, 0.635);
+}
+.Si{
+  background-color: rgba(70, 156, 55, 0.542);
+}
+.formacion{
+  background-color: rgba(255, 0, 179, 0.47);
+}
+.lenguaje{
+  background-color: rgba(219, 36, 46, 0.508);
+}
+.base{
+  background-color: rgba(152, 116, 202, 0.697);
+}
+.recreo{
+  background-color: rgb(238, 238, 17);
+}
